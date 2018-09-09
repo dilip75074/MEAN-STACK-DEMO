@@ -5,13 +5,14 @@ This is a single page application and useful for the developer who are new to An
 
 ### @Angular 6+
 ------------------
--Component
--Services
--Directives
--Routing
--HttpServices
--REST API
-
+#### Component
+#### Services
+#### Directives
+#### Routing
+#### HttpServices
+#### REST API
+#### SEO in Angular
+#### Two Way Binding
 
 ------------------
 ### @NodeJS/Express
