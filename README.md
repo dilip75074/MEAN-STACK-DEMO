@@ -20,8 +20,5 @@ This is a single page application and useful for the developer who are new to An
 
 ------------------
 ### @MongoDB
-
-------------------
-=======
 ------------------
 
